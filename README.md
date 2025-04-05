@@ -1,4 +1,4 @@
-UCI CS145 Spring 2025 Project 1
+**UCI CS145 Spring 2025 Project 1
 
 Design an embedded computer centered around the ATMega32 microcontroller. 
 For input, use a push button. For output, use an LED. Write a C program that blinks the LED on/off for as long as the push button is pressed. 
